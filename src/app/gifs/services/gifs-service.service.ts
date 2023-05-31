@@ -66,4 +66,7 @@ export class GifsService {
 
     this._tagHistory = JSON.parse(localStorage.getItem('history')!);
   }
+
+
+
 }
